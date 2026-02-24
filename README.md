@@ -6,13 +6,12 @@ You can choose to include **numbers** and **symbols** for extra security.
 ---
 
 ## Features
-- Generate random passwords of any length
-- Option to include/exclude numbers and symbols
-- Simple command-line interface (CLI)
+Generate random passwords of any length
+Option to include/exclude numbers and symbols
+Simple command-line interface (CLI)
 
----
 
-## Installation
-1. Clone this repository:
-```bash
-git clone https://github.com/your-username/password-generator.git
+
+
+
+
